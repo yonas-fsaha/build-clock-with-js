@@ -1,0 +1,128 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    font-family: gotham rounded, sans-serif;
+}
+
+body {
+    background: rgba(122, 122, 122, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 2px solid black;
+    position: relative;
+}
+
+.container .number {
+    --rotation: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transform: rotate(var(--rotation));
+    font-size: 1.5rem;
+}
+
+.container .number1 {
+    --rotation: 30deg;
+}
+
+.container .number2 {
+    --rotation: 60deg;
+}
+
+.container .number3 {
+    --rotation: 90deg;
+}
+
+.container .number4 {
+    --rotation: 120deg;
+}
+
+.container .number5 {
+    --rotation: 150deg;
+}
+
+.container .number6 {
+    --rotation: 180deg;
+}
+
+.container .number7 {
+    --rotation: 210deg;
+}
+
+.container .number8 {
+    --rotation: 240deg;
+}
+
+.container .number9 {
+    --rotation: 270deg;
+}
+
+.container .number10 {
+    --rotation: 300deg;
+}
+
+.container .number11 {
+    --rotation: 330deg;
+}
+
+.container .hand {
+    --rotation: 0;
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    border: 1px solid white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    transform-origin: bottom;
+    z-index: 10;
+    transform: translate(-50%) rotate(calc(var(--rotation) * 1deg));
+}
+
+.container::after {
+    content: '';
+    position: absolute;
+    background-color: black;
+    z-index: 11;
+    width: 15px;
+    height: 15px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+}
+
+.container .hand.second {
+    width: 3px;
+    height: 50%;
+    background-color: red;
+}
+
+.container .hand.minute {
+    width: 7px;
+    height: 40%;
+    background-color: black;
+}
+
+.container .hand.hour {
+    width: 10px;
+    height: 35%;
+    background-color: black;
+}
+
+
+/* you need to understand dtail about spreed operator,what is z-index, */
+
+
+/* how to use spreed operator, */
