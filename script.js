@@ -26,5 +26,3 @@ function setRotation(element, rotationRatio) {
 
 setClock()
 
-// element.style means refers that element like document....
-//
