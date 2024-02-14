@@ -7,7 +7,7 @@ const secondHand = document.querySelector('[data-second-hand]');
 
 function setClock() {
 
-    const currentDate = new Date()
+    const currentDate = new Date();
 
     const secondsRatio = currentDate.getSeconds() / 60
 
