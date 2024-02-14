@@ -9,7 +9,7 @@ function setClock() {
 
     const currentDate = new Date();
 
-    const secondsRatio = currentDate.getSeconds() / 60
+    const secondsRatio = currentDate.getSeconds() / 60;
 
     const minutesRatio = (secondsRatio + currentDate.getMinutes()) / 60
 
