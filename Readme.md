@@ -30,6 +30,6 @@ Contributions to the analog clock project are welcome. If you find any issues or
 ## you Create a custom `README.md`
 
 The template provides a guide for what to add. A custom `README` will help you explain your project
-and reflect on your learnings.Please feel free to edit our
+and reflect on your learnings.
 
    
