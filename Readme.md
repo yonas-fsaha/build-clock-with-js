@@ -29,7 +29,6 @@ Contributions to the analog clock project are welcome. If you find any issues or
 
 ## you Create a custom `README.md`
 
-The template provides a guide for what to add. A custom `README` 
-
+The template provides a guide for what to add.
 
    
