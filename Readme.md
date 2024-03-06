@@ -27,7 +27,6 @@ Contributions to the analog clock project are welcome. If you find any issues or
 5. Submit a pull request.
 
 
-## you Create a custom `README.md`
 
 
 
