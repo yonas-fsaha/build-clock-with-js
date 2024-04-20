@@ -24,5 +24,5 @@ Contributions to the analog clock project are welcome. If you find any issues or
 -> 2. Create a new branch.
 -> 3. Make your changes and commit them.
 -> 4. Push your changes to your forked repository.
-5. Submit a pull request.
+-> 5. Submit a pull request.
    
