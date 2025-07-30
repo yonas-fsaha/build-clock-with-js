@@ -22,4 +22,4 @@ Contributions to the analog clock project are welcome. If you find any issues or
 
 -> 1. Fork the repository.
 -> 2. Create a new branch.
--> 3. Make your 
+-> 3. Make 
