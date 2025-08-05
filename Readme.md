@@ -19,5 +19,3 @@ git clone [https://github.com/yonas-fsaha/build-clock-with-js.git]
 ## Contributing
 
 Contributions to the analog clock project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
--> 1. F
