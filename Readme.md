@@ -18,4 +18,4 @@ git clone [https://github.com/yonas-fsaha/build-clock-with-js.git]
 
 ## Contributing
 
-Contributions to the analog clock 
+Contributions to the analog 
