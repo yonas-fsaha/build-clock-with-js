@@ -16,6 +16,4 @@ git clone [https://github.com/yonas-fsaha/build-clock-with-js.git]
 2. The analog clock will be displayed on the screen, showing the current time.
 3. The hour, minute, and second hands will continuously update to reflect the current time.
 
-## Contributing
-
-
+## Contributi
