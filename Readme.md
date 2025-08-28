@@ -14,4 +14,4 @@ git clone [https://github.com/yonas-fsaha/build-clock-with-js.git]
 
 1. Open the `index.html` file in your preferred web browser.
 2. The analog clock will be displayed on the screen, showing the current time.
-3. The hour, minute, and 
+3. The hour, minute, 
