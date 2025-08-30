@@ -13,4 +13,4 @@ git clone [https://github.com/yonas-fsaha/build-clock-with-js.git]
 ## Usage
 
 1. Open the `index.html` file in your preferred web browser.
-2. The analog clock will be displayed on the screen, showing the curren
+2. The analog clock will be displayed on the screen, showing the
