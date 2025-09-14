@@ -11,5 +11,3 @@ bash
 git clone [https://github.com/yonas-fsaha/build-clock-with-js.git]
 
 ## Usage
-
-1. Open the 
