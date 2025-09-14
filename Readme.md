@@ -9,5 +9,3 @@ To use the analog clock project, simply clone this repository to your local mach
 
 bash
 git clone [https://github.com/yonas-fsaha/build-clock-with-js.git]
-
-## Usage
