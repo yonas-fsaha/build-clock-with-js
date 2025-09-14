@@ -8,4 +8,4 @@ This is a simple analog clock project implemented using HTML, CSS, and JavaScrip
 To use the analog clock project, simply clone this repository to your local machine or download the project files as a ZIP archive. 
 
 bash
-git clone [https://github.com/yonas-fsaha/build-clock-with-js.git]
+git clone [https://github.com/yonas-fsaha/build-clock-with-js.g
