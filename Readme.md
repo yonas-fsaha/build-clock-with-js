@@ -5,4 +5,4 @@ This is a simple analog clock project implemented using HTML, CSS, and JavaScrip
 
 ## Installation
 
-To use  analog clock prsimply clone this repository to your local machine 
+To use  analog clock prsimply clone t repository to your local machine 
