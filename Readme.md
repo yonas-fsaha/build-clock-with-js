@@ -4,5 +4,3 @@ This is a simple analog clock project implemented using HTML, CSS, and JavaScrip
 
 
 ## Installation
-
-To 
