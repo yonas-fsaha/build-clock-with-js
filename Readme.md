@@ -1,3 +1,3 @@
 ## Build Analog Clock with js
 
-This is a simple analog clock project implemented using HTML, CSS, and JavaScript. The analog clock displays the current 
+This is a simple analog clock project implemented using HTML, CSS, and JavaScript. The analog clock displays the 
