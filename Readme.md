@@ -1,3 +1,3 @@
 ## Build Analog Clock with js
 
-This is a simp
+This is a s
